@@ -14,13 +14,13 @@ const About = () => {
         </div>
         <p className="text-xl mt-10">
          <h3 className="font-bold">Education Details:</h3>
-         <p>
-         Qualification: Bachelor's degree in Electronics and Communication
+         <pre>
+         Qualification: Bachelor's degree in Electronics and Communication Engineering
          from Visveswarayya technological university  (CGPA-8.27)
 
-         PUC: combination PCMCs from STJ college davanagere
+         PUC: combination [PCMCs] from STJ college davanagere
          Marks:83.36
-         </p>
+         </pre>
         
          
         </p>
