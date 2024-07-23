@@ -38,7 +38,7 @@ const Experience = () => {
     {
       id: 5,
       src: mysql,
-      title: "Mysql_Workbench",
+      title: "MySQL",
       style: "shadow-white",
     },
     {
@@ -50,7 +50,7 @@ const Experience = () => {
     {
       id: 7,
       src: Amazon,
-      title: "Amazon Wwbservices",
+      title: "Amazon Webservices",
       style: "shadow-pink-400",
     },
     {
