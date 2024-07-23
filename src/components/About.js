@@ -17,23 +17,16 @@ const About = () => {
          <pre>
          Qualification: Bachelor's degree in Electronics and Communication Engineering
          from Visveswarayya technological university  (CGPA-8.27)
-
+        </pre>
+        <br/>
+        <pre>
          PUC: combination [PCMCs] from STJ college davanagere
          Marks:83.36
          </pre>
-        
-         
+  
         </p>
 
         <br />
-
-        <p className="text-xl">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores
-          qui fugit numquam! Cum vitae temporibus molestiae dicta illum
-          laboriosam similique at mollitia nihil iusto repellat numquam eos illo
-          perspiciatis a unde minima commodi id cupiditate laborum iste
-    
-        </p>
       </div>
     </div>
   );
