@@ -12,21 +12,24 @@ const About = () => {
             About
           </p>
         </div>
-        <p className="text-xl mt-10">
-         <h3 className="font-bold">Education Details:</h3>
-         <p>
-         Qualification: Bachelor's degree in Electronics and Communication Engineering
-         from Visveswarayya technological university  (CGPA-8.27)
-        </p>
-        <br/>
-        <p>
-         PUC: combination [PCMCs] from STJ college davanagere
-         Marks:83.36
-         </p>
-  
-        </p>
-
-        <br />
+        <div className="text-xl mt-10">
+          <h3 className="font-bold mb-4">Education Details:</h3>
+          <div className="mb-8">
+            <p className="font-bold">Bachelor's Degree</p>
+            <div className="flex flex-col">
+              <p>Bachelor's degree in Electronics and Communication Engineering</p>
+              <p>from Visveswarayya Technological University</p>
+              <pre>CGPA: 8.27</pre>
+            </div>
+          </div>
+          <div>
+            <p className="font-bold">PUC</p>
+            <div className="flex flex-col">
+              <p>Combination [PCMCs] from STJ College, Davanagere</p>
+              <pre>Marks: 83.36%</pre>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   );
